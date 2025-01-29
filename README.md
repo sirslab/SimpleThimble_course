@@ -1,6 +1,6 @@
 # Official repository of the SimpleThimble course
 
-In this repo, you will find codes for firmware and a .unitypackage for testing your own device.
+In this repo, you will find codes for firmware and a `.unitypackage ` for testing your own device.
 For a better understanding of the project, you can have a look at the official [website](https://simplethimble.readthedocs.io/en/latest/)
 
 
