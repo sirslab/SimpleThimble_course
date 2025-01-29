@@ -56,7 +56,7 @@ https://arduino.esp8266.com/stable/package_esp8266com_index.json
 ### Missing Drivers
 1. Open **Device Manager** on your system and check the type of USB-to-UART conversion chip being used.
 2. Based on the chip type, download the corresponding driver. For example:
-- If the chip type is **USB-SERIAL CH340**, download the driver from [this link](https://sparks.gogo.co.nz/assets/site/downloads/CH34x_Install_Windows_v3_4.zip).
+- If the chip type is **USB-SERIAL CH340**, download the driver from [this link](https://sparks.gogo.co.nz/ch340.html).
 3. Additional drivers:
 - **ESP8266 Drivers**: [Download CP210x Drivers](https://www.silabs.com/documents/public/software/CP210x_Windows_Drivers.zip)  
 - **ESP32 Drivers**: [Install CH9102 Drivers](https://learn.adafruit.com/how-to-install-drivers-for-wch-usb-to-serial-chips-ch9102f-ch9102/windows-driver-installation)
